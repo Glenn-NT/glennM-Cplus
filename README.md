@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @glennM-Cplus
-- 👀 I’m a software development major at Sinclair community colege
-- 🌱 I’m currently learning C++ and Java
+- 👋 Hi, I’m @Glenn-NT
+- 👀 I’m an IT student at George Mason University
+- 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on anything i can
 - 📫 How to reach me: https://twitter.com/Glennn_Money
 
